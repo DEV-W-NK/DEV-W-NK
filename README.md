@@ -51,14 +51,9 @@ My main product is **Granith**, a Flutter Web ERP connected to an Android field 
 
 ## GitHub
 
-<p align="center">
-  <a href="https://github.com/DEV-W-NK">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEV-W-NK&amp;show_icons=true&amp;hide_border=true&amp;title_color=E3B84A&amp;icon_color=E3B84A&amp;text_color=EDE1CC&amp;bg_color=080B0D&amp;rank_icon=github" />
-  </a>
-  <a href="https://github.com/DEV-W-NK?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-W-NK&amp;layout=compact&amp;hide_border=true&amp;title_color=E3B84A&amp;text_color=EDE1CC&amp;bg_color=080B0D&amp;langs_count=8" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-W-NK&show_icons=true&hide_border=true&title_color=E3B84A&icon_color=E3B84A&text_color=EDE1CC&bg_color=080B0D&cache_seconds=86400)](https://github.com/DEV-W-NK)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-W-NK&layout=compact&hide_border=true&title_color=E3B84A&text_color=EDE1CC&bg_color=080B0D&langs_count=8&cache_seconds=86400)](https://github.com/DEV-W-NK?tab=repositories)
 
 ---
 
