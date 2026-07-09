@@ -49,11 +49,21 @@ My main product is **Granith**, a Flutter Web ERP connected to an Android field 
 
 ---
 
-## GitHub
+## GitHub Status
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-W-NK&show_icons=true&hide_border=true&title_color=E3B84A&icon_color=E3B84A&text_color=EDE1CC&bg_color=080B0D&cache_seconds=86400)](https://github.com/DEV-W-NK)
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-W-NK&layout=compact&hide_border=true&title_color=E3B84A&text_color=EDE1CC&bg_color=080B0D&langs_count=8&cache_seconds=86400)](https://github.com/DEV-W-NK?tab=repositories)
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+</p>
 
 ---
 
