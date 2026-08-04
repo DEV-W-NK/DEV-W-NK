@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=E3B84A&center=true&vCenter=true&width=900&lines=Creator+of+Granith+ERP+Web+%2B+Granith+Mobile;Flutter+Web+%7C+Android+%7C+Supabase+%7C+Firebase;Building+operational+software+for+real+business+workflows" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=E3B84A&center=true&vCenter=true&width=900&lines=Creator+of+the+Granith+ecosystem%3A+Web%2C+Mobile+and+Engineering;Flutter+Web+%7C+Android+%7C+Windows+%7C+Supabase+%7C+Firebase;Building+operational+software+for+real+business+workflows" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 Software Engineer focused on **Flutter, Android, full stack systems and operational products**.
 
 I build software for field teams, logistics, finance, construction operations, automation and business workflows.  
-My main product is **Granith**, a Flutter Web ERP connected to an Android field app with Supabase, Firebase Cloud Messaging, Google Maps, offline sync, geofencing and local AI.
+My main product is **Granith**, an ecosystem with a Flutter Web ERP, an Android field app and a Windows engineering workstation. It connects Supabase, Firebase Cloud Messaging, Google Maps, offline sync, geofencing, local AI, PDF review and assisted drawing analysis.
 
 ---
 
@@ -21,15 +21,20 @@ My main product is **Granith**, a Flutter Web ERP connected to an Android field 
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33.33%">
       <h3>Granith ERP Web</h3>
       <p>Flutter Web ERP for projects, purchases, stock, finance, teams, client portal and operational workflows.</p>
       <a href="https://github.com/DEV-W-NK/Granith-ERP">Repository</a>
     </td>
-    <td width="50%">
+    <td width="33.33%">
       <h3>Granith Mobile</h3>
       <p>Android field app with routes, geofence, push notifications, offline sync, GPS tracking and local AI assistant.</p>
       <a href="https://github.com/DEV-W-NK/Granith-Mobile">Repository</a>
+    </td>
+    <td width="33.33%">
+      <h3>Granith Engenharia</h3>
+      <p>Flutter Windows workstation for technical documents, PDF review, assisted drawing analysis, digital overlays and audited quantity takeoffs.</p>
+      <a href="https://github.com/DEV-W-NK/Granith_Engenharia">Repository</a>
     </td>
   </tr>
 </table>
@@ -45,6 +50,8 @@ My main product is **Granith**, a Flutter Web ERP connected to an Android field 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12181B?style=for-the-badge&logo=postgresql&logoColor=62B8FF)
 ![Firebase](https://img.shields.io/badge/Firebase-12181B?style=for-the-badge&logo=firebase&logoColor=E3B84A)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-12181B?style=for-the-badge&logo=googlemaps&logoColor=E3B84A)
+![Windows](https://img.shields.io/badge/Windows-12181B?style=for-the-badge&logo=windows11&logoColor=62B8FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-12181B?style=for-the-badge&logo=opencv&logoColor=E3B84A)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-12181B?style=for-the-badge&logo=dotnet&logoColor=62B8FF)
 
 ---
